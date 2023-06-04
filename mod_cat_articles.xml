@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" client="site" method="upgrade">
+	<name>MOD_CAT_ARTICLES</name>
+	<creationDate>06-2023</creationDate>
+	<author>Joomla! Project</author>
+	<authorEmail>[AUTHOR_EMAIL]</authorEmail>
+	<authorUrl>[AUTHOR_URL]</authorUrl>
+	<copyright>[COPYRIGHT]</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>1.0.0</version>
+	<description>MOD_CAT_ARTICLES_XML_DESCRIPTION</description>
+	<namespace>CatArticlesNamespace\Module\CatArticles</namespace>
+	<files>
+		<filename module="mod_cat_articles">mod_cat_articles.php</filename>
+		<folder>Helper</folder>
+		<folder>tmpl</folder>
+		<folder>language</folder>
+		<filename>mod_cat_articles.xml</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field
+				    name="catid"
+					type="category"
+					label="JCATEGORY"
+					extension="com_content"
+					layout="joomla.form.field.list-fancy-select"
+				/>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

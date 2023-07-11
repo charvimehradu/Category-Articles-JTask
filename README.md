@@ -4,7 +4,7 @@ A Joomla! 4 site module to retrieve the last 3 articles from a specific category
 If you are a developer and want to contribute to this extension you can fork this repo.
 
 ## Prerequisites
-- Joomla 4 or higher must be installed on your site.
+- Joomla 4 or higher must be installed on your system. This might help if you are new to Joomla and want to explore more of it: [Setting Up Your Local Environment](https://docs.joomla.org/J4.x:Setting_Up_Your_Local_Environment).
 
 ## Installation Instructions
 To install the Joomla extension for your Joomla Site follow the following steps:
@@ -34,6 +34,7 @@ To display the last 3 articles from a specific category, you need to follow thes
 Once saved, the module will be displayed on your Joomla! site, showing the last 3 articles from the specified category.
 
 ## Words of Gratitude
-Without the assistance and support of the Joomla community, my mentors, and the authors of the books I used to learn about Joomla extension development, this extension would not have been possible. I would especially like to thank Christiane Maier-Stadtherr, Olivier Buisard, Philip Walton, and Shivam Rajput for introducing me to this task. Your enthusiasm and passion for Joomla inspired me to learn more about the platform and its development. I would also like to thank Astrid Günther for her books on Joomla 4 extension development. Her clear and concise explanations were invaluable in helping me understand the concepts and best practices involved in creating a Joomla extension. I am grateful to the entire Joomla community for providing a supportive and welcoming environment for learning and collaboration.
+
+Without the assistance and support of the Joomla community, my mentors, and the authors of the books I used to learn about Joomla extension development, this extension would not have been possible. I would especially like to thank [Christiane Maier-Stadtherr](https://github.com/chmst), [Olivier Buisard](https://github.com/obuisard), Philip Walton, and [Shivam Rajput](https://github.com/shivamdiehard) for introducing me to this task. Your enthusiasm and passion for Joomla inspired me to learn more about the platform and its development. I would also like to thank Astrid Günther for her books on Joomla 4 extension development. Her clear and concise explanations were invaluable in helping me understand the concepts and best practices involved in creating a Joomla extension. I am grateful to the entire Joomla community for providing a supportive and welcoming environment for learning and collaboration.
 
 I am open to suggestions, bug reports, and feature requests. Please feel free to submit an issue or reach out to me directly with any feedback or inquiries.
